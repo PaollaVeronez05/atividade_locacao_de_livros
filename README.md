@@ -296,6 +296,7 @@ Durante o desenvolvimento deste projeto foram reforçados conhecimentos sobre:
 ---
 
 <p align="center">
+  Paolla Paula Veronez - Estudante do curso de Desenvolvimento de Sistemas <br><br>
   <b>SENAI "A. Jacob Lafer" - Santo André, 2026</b><br>
   Curso Técnico em Desenvolvimento de Sistemas
 </p>
